@@ -1,7 +1,7 @@
-#--------------Exploratory Analysis - Golf dataset------------------------
+#--------------Exploratory Analysis------------------------
 
 #Setting up working directory
-setwd("C:/Users/mchoudhu/Documents/PGP-BABI")
+setwd("C:/Users/mchoudhu/Documents/********")
 getwd()
 
 #Importing and calling libraries
